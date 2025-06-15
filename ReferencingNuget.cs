@@ -1,4 +1,4 @@
-// This code demonstrates how to reference a NuGet package in a C# project.
+// This code demonstrates how to reference a NuGet package in a C# script.
 #:package Humanizer@2.14.1
 
 using Humanizer;
