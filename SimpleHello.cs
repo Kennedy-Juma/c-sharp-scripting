@@ -1,0 +1,1 @@
+Console.WriteLine("Hello, welcome to C# scripting!");
